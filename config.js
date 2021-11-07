@@ -15,5 +15,5 @@ const CONFIG = {
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều nhiều 😘😘',
     messDesc: 'Chúng ta gặp nhau nhé ??',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://www.facebook.com/profile.php?id=100072805733355' 
+    messLink: 'https://www.facebook.com/profile.php?id=100072805733355'
 }
